@@ -1,6 +1,8 @@
 # Rachel Hoffman
 ## Product Architect | UX Designer | AI Developer
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 ### I'm currently working on
 #### Updating my personal website 
 I will be including more advanced projects that I have been working on in the last year. There are many new skills I have gained that I want to showcase!

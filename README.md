@@ -21,19 +21,22 @@
 </div>
 <hr>
 
-<h3>My interests</h3>
-<ls>
-  <li>Creative UI design</li>
-  <li>Impactful user experiences</li>
-  <li>Cross-team collaboration in the develpoment process</li>
-</ls>
-
-<h3>Currently learning</h3>
-<ls>
-  <li>MySQL database managment</li>
-  <li>Linux/UNIX systems</li>
-  <li>C and C++ programming</li>
-</ls>
+<div float = "left">
+  <h3>My interests</h3>
+  <ls>
+    <li>Creative UI design</li>
+    <li>Impactful user experiences</li>
+    <li>Cross-team collaboration in the develpoment process</li>
+  </ls>
+</div>
+<div float = "right">
+  <h3>Currently learning</h3>
+  <ls>
+    <li>MySQL database managment</li>
+    <li>Linux/UNIX systems</li>
+    <li>C and C++ programming</li>
+  </ls>
+</div>
 
 
 <div>

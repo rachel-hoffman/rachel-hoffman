@@ -1,5 +1,5 @@
-# Rachel Hoffman
-## Product Architect | UX Designer | AI Developer
+<h1>Rachel Hoffman</h1>
+<h3>Product Architect | UX Designer | AI Developer</h3>
 
 <hr>
 

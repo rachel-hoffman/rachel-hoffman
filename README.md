@@ -1,9 +1,9 @@
-<h1>Rachel Hoffman</h1>
-<h3>Product Architect | UX Designer | AI Developer</h3>
 
+<h2>Rachel Hoffman</h2>
 <hr>
 
 <div align = "center"/>
+  <h3>Product Architect | UX Designer | AI Developer</h3> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = "40px"/>

@@ -1,7 +1,11 @@
 # Rachel Hoffman
 ## Product Architect | UX Designer | AI Developer
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "20px"/>
+#### Tools I Use
+<div align = "center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40px"/>
+</div>
 
 ### I'm currently working on
 #### Updating my personal website 

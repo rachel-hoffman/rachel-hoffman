@@ -16,6 +16,9 @@
 </div>
 <hr>
 
+<h1>Rachel Hoffman</h1>
+
+
 ### I'm currently working on
 #### Updating my personal website 
 I will be including more advanced projects that I have been working on in the last year. There are many new skills I have gained that I want to showcase!

@@ -18,11 +18,26 @@
 <hr>
 
 
+<div>
+  <h3>Current projects</h3>
+  <table>
+    <tr>
+      <!--Headings-->
+      <th>Project</th>
+      <th>Description</th>
+      <th>Ongoing Work</th>
+    </tr>
+    <!--Personal Website updates-->
+    <tr>
+      <td><a href = "https://rachelhoff.com">Personal Website</a></td>
+      <td>My personal website which showcases my work, resume, and other general information about me.</td>
+      <td>I will be including more advanced projects that I have been working on in the last year. There are many new skills I have gained that I want to showcase!</td>
+    </tr>
+  </table>
+</div>
 
-
-### I'm currently working on
 #### Updating my personal website 
-I will be including more advanced projects that I have been working on in the last year. There are many new skills I have gained that I want to showcase!
+
 #### Upgrading my To-Do app
 Right now I use a local CSV file to store user data, but I am in the middle of updating this to instead access a remote MySQL database. This way I can allow commas in user input and I do not need to worry about a local file getting corrupted, moved, or otherwise messed with on the user's machine. A reliable connection to a database will be a major upgrade that also lets me scale my application later!
 #### Learning Linux

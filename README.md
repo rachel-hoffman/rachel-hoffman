@@ -57,7 +57,7 @@
 <p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
 
 <h3>How to reach out</h3>
-<p>Please feel free to reach out on <a href= "https://www.linkedin.com/in/rachoffman">Linkedin</a> or via my email address, rachel331h@gmail.com.</p>
+<p>Please feel free to reach out on <a href= "https://www.linkedin.com/in/rachoffman">Linkedin</a> or via my email address, <a href = "mailto: rachel331h@gmail.com">rachel331h@gmail.com</a>.</p>
 <br>
 <p>Check out my personal website, <a href = "https://rachelhoff.com">rachelhoff.com</a>, to see more of my projects in an in-depth format.</p>
 

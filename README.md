@@ -29,19 +29,25 @@
     </tr>
     <!--Personal Website updates-->
     <tr>
-      <td><a href = "https://rachelhoff.com">Personal Website</a></td>
+      <td><a href = "https://github.com/rachel-hoffman/portfolio">Personal Website</a></td>
       <td>My personal website which showcases my work, resume, and other general information about me.</td>
       <td>I will be including more advanced projects that I have been working on in the last year. There are many new skills I have gained that I want to showcase!</td>
     </tr>
+    <!--To-Do App DB update-->
+    <tr>
+      <td><a href = "https://github.com/rachel-hoffman/to-do">To-Do Desktop Application</a></td>
+      <td>A To-Do List application created in Python using the PySide6 UI library. Users can add, edit, and delete tasks, as well as organize them into different lists. User data is stored locally in a CSV file so all lists and tasks are saved.</td>
+      <td>I am in the middle of updating the app to access a remote MySQL database instead of the local CSV file. This way I can allow commas in user input, and I do not need to worry about a local file getting corrupted, moved, or otherwise messed with on the user's machine. A reliable connection to a database will be a major upgrade that also lets me scale my application later on!</td>
+    </tr>
+    <!--
+    <tr>
+      <td><a href = "https://github.com/rachel-hoffman/">Project Name</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    -->
   </table>
 </div>
-
-#### Updating my personal website 
-
-#### Upgrading my To-Do app
-Right now I use a local CSV file to store user data, but I am in the middle of updating this to instead access a remote MySQL database. This way I can allow commas in user input and I do not need to worry about a local file getting corrupted, moved, or otherwise messed with on the user's machine. A reliable connection to a database will be a major upgrade that also lets me scale my application later!
-#### Learning Linux
-I have recently upgraded some old hardware by installing Ubuntu Linux! This is where I am building the MySQL database I mentioned, and I will be completing other projects in the Linux environment to gain further familiarity. I know these skills will be necessary for database and server management I may run into down the road.
 
 ### About me
 I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.

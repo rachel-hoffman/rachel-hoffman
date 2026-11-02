@@ -3,7 +3,7 @@
 -->
 <img src = "cover_1.png" width = "100%">
 
-<h3>Hello! Nice to "meet" you, I'm Rachel.</h3>
+<h3>Hello! Nice to virtually "meet" you, I'm Rachel.</h3>
 <hr>
 
 <div align = "center"/>
@@ -55,6 +55,10 @@
 
 <h3>More about me</h3>
 <p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
+
+<!--<h3>Other technical interests</h3>
+<h3>Professional background</h3>
+<h3>Developing areas of expertise</h3>-->
 
 <h3>How to reach out</h3>
 <p>Please feel free to reach out on <a href= "https://www.linkedin.com/in/rachoffman">Linkedin</a> or via my email address, <a href = "mailto: rachel331h@gmail.com">rachel331h@gmail.com</a>.</p>

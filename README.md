@@ -1,7 +1,7 @@
 # Rachel Hoffman
 ## Product Architect | UX Designer | AI Developer
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "20px"/>
 
 ### I'm currently working on
 #### Updating my personal website 

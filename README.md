@@ -23,7 +23,7 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td valign="top" width="50%">
       <h3>My interests</h3>
       <ul>
         <li>Creative UI design</li>
@@ -31,7 +31,7 @@
         <li>Cross-team collaboration in the development process</li>
       </ul>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <h3>Currently learning</h3>
       <ul>
         <li>MySQL database management</li>

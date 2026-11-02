@@ -1,3 +1,7 @@
+<!--
+**rachel-hoffman/rachel-hoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <h1>Rachel Hoffman</h1>
 <p>Hi there! Nice to meet you, I'm Rachel.</p>
 <hr>
@@ -19,7 +23,7 @@
 
 
 <div>
-  <h3>Current projects</h3>
+  <h3>Currently working on</h3>
   <table>
     <tr>
       <!--Headings-->
@@ -49,24 +53,11 @@
   </table>
 </div>
 
-### About me
-I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.
+<h3>More about me</h3>
+<p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
 
-### How to reach me
-rachel331h@gmail.com
-rachelhoff.com
+<h3>How to reach out</h3>
+<p>Please feel free to reach out on <a href= "https://www.linkedin.com/in/rachoffman">Linkedin</a> or via my email address, rachel331h@gmail.com.</p>
+<br>
+<p>Check out my personal website, <a href = "https://rachelhoff.com">rachelhoff.com</a>, to see more of my projects in an in-depth format.</p>
 
-<!--
-**rachel-hoffman/rachel-hoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

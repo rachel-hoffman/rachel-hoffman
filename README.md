@@ -21,8 +21,8 @@
 </div>
 <hr>
 
-<div display = "flexbox">
-  <div float = "left">
+<div style = "display:flex; justify-content: space-between; align-items: center;">
+  <div>
     <h3>My interests</h3>
     <ls>
       <li>Creative UI design</li>
@@ -30,7 +30,7 @@
       <li>Cross-team collaboration in the develpoment process</li>
     </ls>
   </div>
-  <div float = "right">
+  <div>
     <h3>Currently learning</h3>
     <ls>
       <li>MySQL database managment</li>

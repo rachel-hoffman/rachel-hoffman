@@ -21,7 +21,7 @@
 </div>
 <hr>
 
-<div layout = "flexbox">
+<div display = "flexbox">
   <div float = "left">
     <h3>My interests</h3>
     <ls>

@@ -24,15 +24,15 @@
 <table border="0" width = "100%">
   <tr>
     <td valign="top" width="50%">
-      <h3>My interests</h3>
+      <h3>My interests include</h3>
       <ul>
         <li>Creative UI design</li>
         <li>Impactful user experiences</li>
-        <li>Cross-team collaboration in the development process</li>
+        <li>Efficient product development</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>Currently learning</h3>
+      <h3>I'm currently learning</h3>
       <ul>
         <li>MySQL database management</li>
         <li>Linux/UNIX systems</li>

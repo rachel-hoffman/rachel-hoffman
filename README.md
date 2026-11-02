@@ -3,7 +3,7 @@
 -->
 <img src = "cover_1.png" width = "100%">
 
-<h2>Hello! Nice to "meet" you, I'm Rachel.</h2>
+<h3>Hello! Nice to "meet" you, I'm Rachel.</h3>
 <hr>
 
 <div align = "center"/>

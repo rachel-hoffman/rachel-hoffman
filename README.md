@@ -24,19 +24,19 @@
 <div style = "display:flex; flex-direction:row; justify-content:flex-start; align-items: center;">
   <div>
     <h3>My interests</h3>
-    <ls>
+    <ul>
       <li>Creative UI design</li>
       <li>Impactful user experiences</li>
       <li>Cross-team collaboration in the develpoment process</li>
-    </ls>
+    </ul>
   </div>
   <div>
     <h3>Currently learning</h3>
-    <ls>
+    <ul>
       <li>MySQL database managment</li>
       <li>Linux/UNIX systems</li>
       <li>C and C++ programming</li>
-    </ls>
+    </ul>
   </div>
 </div>
 

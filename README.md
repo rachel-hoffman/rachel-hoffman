@@ -1,7 +1,7 @@
 <!--
 **rachel-hoffman/rachel-hoffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src = "cover_1.png" width = "100%">
+<img src = "cover_2.png" width = "100%">
 
 <h3>Nice to virtually "meet" you, my name is Rachel.</h3>
 <hr>

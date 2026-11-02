@@ -21,8 +21,7 @@
 </div>
 <hr>
 
-<div width = "100%">
-<table border="0">
+<table border="0" min-width= "100%">
   <tr>
     <td valign="top" width="50%">
       <h3>My interests include</h3>
@@ -42,7 +41,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 
 <div>

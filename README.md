@@ -21,24 +21,27 @@
 </div>
 <hr>
 
-<div style = "display:flex; flex-direction:row; justify-content:flex-start; align-items: flex-start;">
-  <div>
-    <h3>My interests</h3>
-    <ul>
-      <li>Creative UI design</li>
-      <li>Impactful user experiences</li>
-      <li>Cross-team collaboration in the develpoment process</li>
-    </ul>
-  </div>
-  <div>
-    <h3>Currently learning</h3>
-    <ul>
-      <li>MySQL database managment</li>
-      <li>Linux/UNIX systems</li>
-      <li>C and C++ programming</li>
-    </ul>
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <h3>My interests</h3>
+      <ul>
+        <li>Creative UI design</li>
+        <li>Impactful user experiences</li>
+        <li>Cross-team collaboration in the development process</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Currently learning</h3>
+      <ul>
+        <li>MySQL database management</li>
+        <li>Linux/UNIX systems</li>
+        <li>C and C++ programming</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 <div>
   <h3>Currently working on</h3>

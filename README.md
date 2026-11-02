@@ -23,7 +23,7 @@
 
 <table border="0" min-width= "100%">
   <tr>
-    <td valign="top" width="50%">
+    <td border="0" width="50%">
       <h3>My interests include</h3>
       <ul>
         <li>Creative UI design</li>
@@ -31,7 +31,7 @@
         <li>Efficient product development</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td border="0" width="50%">
       <h3>I'm currently learning</h3>
       <ul>
         <li>MySQL database management</li>

@@ -1,8 +1,4 @@
-# Rachel Hoffman
-## Product Architect | UX Designer | AI Developer
-
 <div align = "center"/>
-#### Tools I Use
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width = "40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "40px"/>
@@ -14,6 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width = "40px"/>
 </div>
+# Rachel Hoffman
+## Product Architect | UX Designer | AI Developer
+
 
 ### I'm currently working on
 #### Updating my personal website 

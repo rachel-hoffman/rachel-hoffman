@@ -58,7 +58,8 @@
 
 <!--<h3>Other technical interests</h3>
 <h3>Professional background</h3>
-<h3>Developing areas of expertise</h3>-->
+<h3>Developing areas of expertise</h3>
+<h3>Learning goals</h3>-->
 
 <h3>How to reach out</h3>
 <p>Please feel free to reach out on <a href= "https://www.linkedin.com/in/rachoffman">Linkedin</a> or via my email address, <a href = "mailto: rachel331h@gmail.com">rachel331h@gmail.com</a>.</p>

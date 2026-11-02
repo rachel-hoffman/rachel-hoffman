@@ -21,7 +21,7 @@
 </div>
 <hr>
 
-<div style = "display:flex; flex-direction:row; justify-content: space-between; align-items: center;">
+<div style = "display:flex; justify-content:flex-start; align-items: center;">
   <div>
     <h3>My interests</h3>
     <ls>

@@ -3,7 +3,7 @@
 -->
 <img src = "cover_1.png" width = "100%">
 
-<h3>Hello! Nice to virtually "meet" you, I'm Rachel.</h3>
+<h3>Nice to virtually "meet" you, my name is Rachel.</h3>
 <hr>
 
 <div align = "center"/>

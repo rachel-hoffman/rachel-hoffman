@@ -21,6 +21,20 @@
 </div>
 <hr>
 
+<h3>My interests</h3>
+<ls>
+  <li>Creative UI design</li>
+  <li>Impactful user experiences</li>
+  <li>Cross-team collaboration in the develpoment process</li>
+</ls>
+
+<h3>Currently learning</h3>
+<ls>
+  <li>MySQL database managment</li>
+  <li>Linux/UNIX systems</li>
+  <li>C and C++ programming</li>
+</ls>
+
 
 <div>
   <h3>Currently working on</h3>
@@ -56,8 +70,31 @@
 <h3>More about me</h3>
 <p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
 
-<!--<h3>Other technical interests</h3>
-<h3>Professional background</h3>
+<div>
+  <h3>Professional background</h3>
+  <table>
+    <tr>
+      <!--Headings-->
+      <th>Position</th>
+      <th>Description</th>
+      <th>Skills</th>
+    </tr>
+    <!--
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href = "https://github.com/rachel-hoffman/">Project Name</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    -->
+  </table>
+</div>
+
+<!--
 <h3>Developing areas of expertise</h3>
 <h3>Learning goals</h3>-->
 

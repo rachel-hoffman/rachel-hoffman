@@ -1,5 +1,4 @@
 
-<h2>Rachel Hoffman</h2>
 <hr>
 
 <div align = "center"/>

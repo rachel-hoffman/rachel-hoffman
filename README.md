@@ -22,7 +22,7 @@
 <hr>
 
 <table border="0" min-width= "100%">
-  <tr>
+  <tr border="0">
     <td border="0" width="50%">
       <h3>My interests include</h3>
       <ul>

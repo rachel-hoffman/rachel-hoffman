@@ -1,4 +1,5 @@
-
+<h1>Rachel Hoffman</h1>
+<p>Hi there! Nice to meet you, I'm Rachel.</p>
 <hr>
 
 <div align = "center"/>
@@ -16,7 +17,7 @@
 </div>
 <hr>
 
-<h1>Rachel Hoffman</h1>
+
 
 
 ### I'm currently working on

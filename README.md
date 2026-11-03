@@ -96,12 +96,13 @@
 | <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
 
 
+<br>
+
 <!--
 <h3>Developing areas of expertise</h3>
 <h3>Learning goals</h3>-->
 
 <h3>How to reach out</h3>
 <p>Please feel free to reach out on <a href= "https://www.linkedin.com/in/rachoffman">Linkedin</a> or via my email address, <a href = "mailto: rachel331h@gmail.com">rachel331h@gmail.com</a>.</p>
-<br>
 <p>Check out my personal website, <a href = "https://rachelhoff.com">rachelhoff.com</a>, to see more of my projects in an in-depth format.</p>
 

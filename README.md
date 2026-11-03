@@ -90,7 +90,8 @@
   <h3>Resume</h3>
   <p>See more about my experience and professional background on my resume!</p>
   <!--IMG from svgrepo.com-->
-	<img src = "resume_icon.png" width = "40px"> <p><a href = "https://rachelhoff.com/rachel_hoffman.pdf"><b>Resume</b></a></p>
+	<img src = "resume_icon.png" width = "40px" float = "left"> 
+	<span><p><a href = "https://rachelhoff.com/rachel_hoffman.pdf"><b>Resume</b></a></p></span>
 </div>
 
 <!--

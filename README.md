@@ -93,7 +93,7 @@
 
 | | |
 |:---|:---|
-| <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
+| <img src="resume_icon.png" width="40"> | **<a href="https://rachelhoff.com/rachel_hoffman.pdf" target="_blank">Resume</a>** |
 
 
 

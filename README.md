@@ -21,10 +21,10 @@
 </div>
 <hr>
 
-<table border="0" min-width= "100%">
+<table border="0">
   <tr border="0">
-    <th width="50%">My interests include</th>
-    <th width="50%">I'm currently learning</th>
+    <th>My interests include</th>
+    <th>I'm currently learning</th>
   </tr>
   <tr>
     <td>

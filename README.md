@@ -67,7 +67,7 @@
     <!--To-Do App DB update-->
     <tr>
       <td><a href = "https://github.com/rachel-hoffman/to-do">To-Do Desktop Application</a></td>
-      <td>A To-Do List application created in Python using the PySide6 UI library. Users can add, edit, and delete tasks, as well as organize them into different lists. User data is stored locally in a CSV file so all lists and tasks are saved.</td>
+      <td>A to-do list application created in Python using the PySide6 UI library. Users can add, edit, and delete tasks, as well as organize them into different lists. User data is stored locally in a CSV file so all lists and tasks are saved.</td>
       <td>I am in the middle of updating the app to access a remote MySQL database instead of the local CSV file. This way I can allow commas in user input, and I do not need to worry about a local file getting corrupted, moved, or otherwise messed with on the user's machine. A reliable connection to a database will be a major upgrade that also lets me scale my application later on!</td>
     </tr>
     <!--

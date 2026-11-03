@@ -21,6 +21,9 @@
 </div>
 <hr>
 
+<h3>A bit about me</h3>
+<p>I was originally drawn to the product development field through an interest in user interface design. I pursued UX/UI design, and as my time in the field progressed, I grew more and more interested in how the platforms I designed actually work. I now function as a self-taught developer, always looking for fun new projects to expand on my skills. I am currently learning low-level and database basics, including assembly, C, and MySQL. My current academic goals are to fully understand all levels of product develpment!</p>
+
 <table align = "center">
   <tr>
     <th>My interests include</th>
@@ -76,7 +79,7 @@
   </table>
 </div>
 
-<h3>More about me</h3>
+<h3>Educational background</h3>
 <p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
 
 <div>

@@ -23,7 +23,7 @@
 <hr>
 
 <h3>A bit about me</h3>
-<p>I was originally drawn to the product development field through an interest in user interface design. I pursued UX/UI design, and as my time in the field progressed, I grew more and more interested in how the platforms I designed actually work. I now function as a self-taught developer, always looking for fun new projects to expand on my skills. I am currently learning low-level and database basics, including assembly, C, and MySQL. My current academic goals are to fully understand all levels of product develpment!</p>
+<p>I was originally drawn to the product development field through an interest in user interface design. I pursued UX/UI design, and as my time in the field progressed, I grew more and more interested in how the platforms I designed actually work. I now function as a self-taught developer, always looking for fun new projects to expand on my skills. I am currently learning low-level and database basics, including assembly, C, and MySQL. My current academic goals are to fully understand all levels of product development!</p>
 
 <br>
 <table align = "center">
@@ -48,7 +48,7 @@
     </td>
   </tr>
 </table>
-<br>
+
 
 <div>
   <h3>Currently working on</h3>

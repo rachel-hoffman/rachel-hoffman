@@ -89,21 +89,37 @@
     <tr>
       <!--Headings-->
       <th>Position</th>
+      <th>Organization</th>
       <th>Description</th>
       <th>Skills</th>
     </tr>
-    <!--
+    <!--TLG-->
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Office Administrator</td>
+      <td>The Leona Group</td>
+      <td>Completed reporting and managed workflows for the federal and state requirements of over 22 schools across three states.</td>
+      <td>
+        <ul>
+          <li>Organization to meet strict deadlines</li>
+          <li>Collaboration across internal and external stakeholders</li>
+          <li>Internal systems design revision</li>
+          <li>Hosting and planning cross-department meetings</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td><a href = "https://github.com/rachel-hoffman/">Project Name</a></td>
-      <td></td>
-      <td></td>
+      <td>Product Management Intern</td>
+      <td>Jaster Athletics</td>
+      <td>Worked with the Product Manager to facilitate communication between our product and development teams. Sat in on both team's meetings for advice and clarity, helped out with design tasks on the product and marketing teams, and conducted rounds of QA on prototypes of new product features.</td>
+      <td>
+        <ul>
+          <li>Facilitated cross-team communication</li>
+          <li>Conducted user research (including user personas, journey mapping, and surveys)</li>
+          <li>Analyzed competitors and helped employ new strategies</li>
+          <li>Designed desktop and mobile interfaces for new AI-powered features</li>
+        </ul>
+      </td>
     </tr>
-    -->
   </table>
 </div>
 

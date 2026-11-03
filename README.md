@@ -80,11 +80,11 @@
     -->
   </table>
 </div>
-<br>
+
 
 <h3>Educational background</h3>
 <p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and developemnt teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
-<br>
+
 
   <h3>Resume</h3>
   <p>See more about my experience and professional background on my resume!</p>
@@ -96,7 +96,7 @@
 | <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
 
 
-<br>
+
 
 <!--
 <h3>Developing areas of expertise</h3>

@@ -21,8 +21,8 @@
 </div>
 <hr>
 
-<table border="0">
-  <tr border="0">
+<table align = "center">
+  <tr>
     <th>My interests include</th>
     <th>I'm currently learning</th>
   </tr>

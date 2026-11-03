@@ -92,11 +92,11 @@
   <!--IMG from svgrepo.com-->
 	<img src = "resume_icon.png" width = "40px" float = "left"> 
 	<span float = "right"><p><a href = "https://rachelhoff.com/rachel_hoffman.pdf"><b>Resume</b></a></p></span>
+	
+| | |
+| <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
 </div>
 
-| | |
-|:---|:---|
-| <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
 
 <!--
 <h3>Developing areas of expertise</h3>

@@ -94,6 +94,10 @@
 	<span float = "right"><p><a href = "https://rachelhoff.com/rachel_hoffman.pdf"><b>Resume</b></a></p></span>
 </div>
 
+| | |
+|:---|:---|
+| <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
+
 <!--
 <h3>Developing areas of expertise</h3>
 <h3>Learning goals</h3>-->

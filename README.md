@@ -86,8 +86,7 @@
 <p>I hold a B.A. in Experience Architecture and am currently pursuing an M.S. in Computer Science and Artificial Intelligence. I decided to pursue further education because I felt that technical expertise is vital to craft a complete user experience, and be able to collaborate across product and development teams. I'm excited to learn more about Artificial Intelligence as well, and see how that technology might be useful in my line of work.</p>
 
 
-  <h3>Resume</h3>
-  <p>See more about my experience and professional background on my resume!</p>
+<h3>Resume</h3>  
   
   <!--IMG from svgrepo.com-->	
 
@@ -95,6 +94,8 @@
 |:---|:---|
 | <img src="resume_icon.png" width="40"> | **<a href="https://rachelhoff.com/rachel_hoffman.pdf" target="_blank">Resume</a>** |
 
+
+<p>See more about my experience and professional background on my resume!</p>
 
 
 

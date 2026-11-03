@@ -91,7 +91,7 @@
   
   <!--IMG from svgrepo.com-->	
 
-
+| | |
 |:---|:---|
 | <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
 

@@ -88,11 +88,13 @@
 
   <h3>Resume</h3>
   <p>See more about my experience and professional background on my resume!</p>
+  
   <!--IMG from svgrepo.com-->	
+
 | | |
 |:---|:---|
 | <img src="resume_icon.png" width="40"> | **[Resume](https://rachelhoff.com/rachel_hoffman.pdf)** |
-<br>
+
 
 <!--
 <h3>Developing areas of expertise</h3>

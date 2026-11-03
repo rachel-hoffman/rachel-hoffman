@@ -23,16 +23,18 @@
 
 <table border="0" min-width= "100%">
   <tr border="0">
-    <td border="0" width="50%">
-      <h3>My interests include</h3>
+    <th width="50%">My interests include</th>
+    <th width="50%">I'm currently learning</th>
+  </tr>
+  <tr>
+    <td>
       <ul>
         <li>Creative UI design</li>
         <li>Impactful user experiences</li>
         <li>Efficient product development</li>
       </ul>
     </td>
-    <td border="0" width="50%">
-      <h3>I'm currently learning</h3>
+    <td>
       <ul>
         <li>MySQL database management</li>
         <li>Linux/UNIX systems</li>
